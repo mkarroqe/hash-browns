@@ -1,4 +1,4 @@
-# hash(ed) browns? unfortunately, no
+# hash browns? unfortunately, no
 import hashlib
 
 def init():
@@ -53,7 +53,3 @@ def sha1generator(infile):
 		quit()
 
 init()
-
-# md5generator('/Users/mkarroqe/Desktop/myFile.txt')
-# md5generator(infile)
-# next let's decrypt this hehe
